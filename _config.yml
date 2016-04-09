@@ -1,0 +1,28 @@
+name: UD 10 Years
+favicon: null
+layout_spectrum: 0.5955723400693387
+typography_spectrum: 0.07948794099502265
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.24292309628799558
+  lightness: 0.8680595473852009
+  saturation: 0.13906642282381654
+  rhythmicContrast: 0.3706314687151462
+purpose: []
